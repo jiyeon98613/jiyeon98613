@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiyeon98613
-- 👀 I’m interested in game developement, metaverse, and AI
+- 👀 I’m interested in game development, metaverse, and AI
 - 🌱 I’m currently learning C++ and Unity
-- 💞️ I’m looking to collaborate on game developement
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me junehijune@gmail.com
 
 <!---
