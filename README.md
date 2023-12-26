@@ -1,5 +1,5 @@
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.repository.svg" alt="Metrics">
 </picture>
 
 - 👋 Hi, I’m @jiyeon98613
