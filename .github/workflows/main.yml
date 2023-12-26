@@ -14,6 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
+          template: repository
+          user: lowlighter
+          repo: metrics  
+          filename: metrics.repository.svg
           token: ${{ secrets.METRICS_THEME_TOKEN }}
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
