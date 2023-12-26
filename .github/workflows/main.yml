@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: header
           template: repository
           user: jiyeon98613
           repo: jiyeon98613  
@@ -25,3 +26,8 @@ jobs:
           plugin_followup: yes
           plugin_projects: yes
           plugin_projects_repositories: lowlighter/metrics/projects/1
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_stars: yes
+          config_order: base.header, isocalendar, languages, stars
+          
