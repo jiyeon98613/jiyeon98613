@@ -17,8 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: repository
-          user: lowlighter
-          repo: metrics  
+          user: jiyeon98613
+          repo: jiyeon98613  
           filename: metrics.repository.svg
           token: ${{ secrets.METRICS_THEME_TOKEN }}
           plugin_lines: yes
