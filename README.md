@@ -1,3 +1,7 @@
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 - 👋 Hi, I’m @jiyeon98613
 - 👀 I’m interested in game development, metaverse, and AI
 - 🌱 I’m currently learning C++ and Unity
