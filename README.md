@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @jiyeon98613
 - 👀 I’m a prospective Data engineer, and I am interested in ML and AI.
-- 🌱 I’m currently learning C++ and Unity
+- 🌱 I’m currently learning Phython, Java, and mySQL
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me jkim9510@usc.edu
 
