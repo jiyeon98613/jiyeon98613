@@ -1,4 +1,6 @@
-
+<picture>
+  <img src="/metrics.repository.svg" alt="Metrics">
+</picture>
 
 - 👋 Hi, I’m @jiyeon98613
 - 👀 I’m a prospective Data engineer, and I am interested in ML and AI.
