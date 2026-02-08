@@ -2,10 +2,15 @@
   <img src="/metrics.repository.svg" alt="Metrics">
 </picture>
 
-- 👋 Hi, I’m Jiyeon Kim
-- 👀 I’m a Junior Data Engineer | Passionate about building scalable data pipelines
-- 🌱 I’m currently learning Phython, PostgreSQL, Selenium, Docker
-- 💞️ I’m looking to collaborate on game development
+### 👨‍💻 About Me
+- 🔭 I’m currently working on a **Court Auction Data Pipeline** project.
+- 🌱 I’m learning how to optimize **Cloud Databases** and build automated ETL flows.
+- ⚡ Fun fact: I enjoy analyzing real estate trends through data.
+
+### 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **Databases:** PostgreSQL, MySQL, (Soon) Snowflake/BigQuery
+- **Tools:** Git, Docker, Selenium
 
 <!---
 jiyeon98613/jiyeon98613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
