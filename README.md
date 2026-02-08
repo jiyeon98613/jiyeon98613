@@ -2,9 +2,9 @@
   <img src="/metrics.repository.svg" alt="Metrics">
 </picture>
 
-- 👋 Hi, I’m @jiyeon98613
-- 👀 I’m a prospective Software engineer, and I am interested in ML and AI.
-- 🌱 I’m currently learning Phython, Java, and mySQL
+- 👋 Hi, I’m Jiyeon Kim
+- 👀 I’m a Junior Data Engineer | Passionate about building scalable data pipelines
+- 🌱 I’m currently learning Phython, PostgreSQL, Selenium, Docker
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me jkim9510@usc.edu
 
