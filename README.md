@@ -1,6 +1,3 @@
-<picture>
-  <img src="/metrics.repository.svg" alt="Metrics">
-</picture>
 
 
 ### 👨‍💻 About Me
