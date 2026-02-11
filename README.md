@@ -1,7 +1,7 @@
 
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on a **Court Auction Data Pipeline** project.
+- 🔭 I’m currently working on a **건보 청구용 데이터 정리 & 자동화 매크로 프로젝트** project.
 - 🌱 I’m learning how to optimize **Cloud Databases** and build automated ETL flows.
 - ⚡ Fun fact: I enjoy analyzing real estate trends through data.
 
